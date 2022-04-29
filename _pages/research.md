@@ -5,7 +5,7 @@ title: "Research"
 
 A place to discuss ongoing research projects
 
-*  Sacramento Valley red fox x nonnative red fox hybridization
+*  Sacramento Valley red fox    X     nonnative red fox hybridization
 *  Secondary contact of divergence gray fox lineages
 *  Demographic history of gray foxes in North America
 *  Comparative skull morphology of red foxes along elevational gradients
