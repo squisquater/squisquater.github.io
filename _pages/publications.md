@@ -14,7 +14,7 @@ Recommended citation: Quinn CB, Preckler-Quisquater S, Akins JA, Cross P, Alden 
 [/images/graduation-cap-solid.svg](https://squisquater.github.io/research/){: .btn--research} \
 [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/address-book.svg" width="40" height="40">](https://squisquater.github.io/research/){: .btn--research} \
 \
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="40" height="40">](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16048){: .btn--research} \
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="40" height="40">](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16048){: .btn--research} \
 \
 **citation 2**\
 \
