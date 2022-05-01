@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Historical mitochondrial genomes reveal Pleistocene origin of the red wolf and insights for North American Canis phylogeography"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2022-teaching-programming
+date: 2021-01-01
+venue: 'Molecular Ecology'
+paperurl: ''
+link: 'https://doi.org/10.1111/mec.16048'
+citation: 'Quinn CB, Preckler-Quisquater S, Akins JA, Cross P, Alden PB, Vanderzwan SL, Stephenson JA, Figura P, Green GA, Hiller T, Sacks BN. 2022. &quot;Historical mitochondrial genomes reveal Pleistocene origin of the red wolf and insights for North American Canis phylogeography&quot; <i>Molecular Ecology<i>. doi.10.1111/mec.16048'
 ---
-Test Change. This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
