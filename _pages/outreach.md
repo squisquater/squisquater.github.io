@@ -18,7 +18,8 @@ Author: **Preckler-Quisquater S** \
 *The Yolo Basin Foundation Flyway Nights Speaker Series*, Davis, CA \
 Presenter: **Preckler-Quisquater S** \
 
-[![][/images/YBF-Thumbnail.png]](https://www.youtube.com/watch?v=Wt4ohyRGNY8 "Sacramento Valley Red Fox Flyway Nights Dec 2020")
+[<img align="center" src="/images/YBF-Thumbnail.png" width="300">](https://www.youtube.com/watch?v=Wt4ohyRGNY8)
+
 
 
 
