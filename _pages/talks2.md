@@ -29,11 +29,11 @@ Author List: Davis, TM, **Preckler-Quisquater S**, Sacks BN \
 *The Wildlife Society National Conference*, Reno, NV \
 Author List: **Preckler-Quisquater S**, Sacks BN \
 \
-[<img align="right" src="/files/TWS-2018-Poster.pdf" width="250">](/files/TWS-2018-Poster.pdf)
+[<img align="right" src="/files/TWS2018-Poster.pdf" width="250">](/files/TWS2018-Poster.pdf)
 **Assessing selective introgression of nonnative red fox genes into the genomic background of the native Sacramento Valley red fox** \
 <span style="color:darkgray">February 8, 2018 -- Poster Presentation</span> \
 *The Western Section of The Wildlife Society Annual Conference*, Redding, CA \
-Author List: Preckler-Quisquater S, Anderson S, Buchalski M, Sacks BN  \
+Author List: Preckler-Quisquater S, Anderson S, Buchalski M, Sacks BN
 
 
 
