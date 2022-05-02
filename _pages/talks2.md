@@ -15,13 +15,13 @@ Author List: **Preckler-Quisquater S**, Kierepka E, Reding D, Piaggio A, Riley S
 <span style="color:darkgray">February 6, 2020 -- Oral Presentation</span> \
 *The Western Section of The Wildlife Society Annual Conference*, Redding, CA \
 Author List: **Preckler-Quisquater S**, Sacks BN \
-*Awarded Best Oral Presentation \
+<span style="color:cadetblue">Awarded Best Oral Presentation</span> \
 \
 [<img align="right" src="/files/Davis-2020-poster.pdf" width="250">](/files/Davis-2020-poster.pdf)
 **Optimizing tissue sampling and extraction protocols for next-generation genomic sequencing** \
 <span style="color:darkgray">February 6, 2020 -- Poster Presentation</span> \
 *The Western Section of The Wildlife Society Annual Conference*, Redding, CA \
 Author List: Davis, TM, **Preckler-Quisquater S**, Sacks BN \
-*Awarded Best Poster Presentation \
+<span style="color:cadetblue">Awarded Best Poster Presentation</span>
 
 
