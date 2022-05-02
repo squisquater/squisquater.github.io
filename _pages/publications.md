@@ -3,7 +3,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-change check
 \
 **Contrasting genetic trajectories of endangered and expanding red fox populations in the western U.S.** \
 Published in *Heredity*, 2022 \
@@ -11,7 +10,7 @@ Recommended citation: Quinn CB, **Preckler-Quisquater S**, Akins JA, Cross P, Al
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://www.nature.com/articles/s41437-022-00522-4){: .btn--light-outline} 
 \
 \
-<img align="right" height="200" src="/files/Sacks2021-cover-Image.png">
+<img align="right" height="50" src="/files/Sacks2021-cover-Image.png">
 **Historical mitochondrial genomes reveal Pleistocene origin of the red wolf and insights for North American Canis phylogeography** \
 Published in *Molecular Ecology*, 2021 \
 Recommended citation: Sacks BN, Mitchell KJ, Quinn CB, Hennelly LM, Sinding MHS, Statham MJ, **Preckler-Quisquater S**, Fain SR, Kistler L, Vanderzwan SL, Meachen JA, Ostrander EA, Frantz LAF. 2021. Historical mitochondrial genomes reveal Pleistocene origin of the red wolf and insights for North American Canis phylogeography. *Molecular Ecology*. doi:10.1111/mec.16048 \
