@@ -3,7 +3,7 @@ title: "Talks"
 permalink: /talks2/
 author_profile: true
 ---
-This page highlights a selection of my research presented at professional conferences or to members of the public. For a complete list check out my [CV](https://squisquater.github.io/cv/).\
+This page highlights a selection of my research presented at professional conferences. For a complete list check out my [CV](https://squisquater.github.io/cv/).\
 \
 [<img align="right" src="/files/Preckler-Quisquater_TWS2022.pdf" width="250">](/files/Preckler-Quisquater_TWS2022.pdf)
 **Genomic sequencing across a zone of secondary contact uncovers complex demographic history and admixture between cryptic gray fox lineages** \
@@ -33,7 +33,25 @@ Author List: **Preckler-Quisquater S**, Sacks BN \
 **Assessing selective introgression of nonnative red fox genes into the genomic background of the native Sacramento Valley red fox** \
 <span style="color:darkgray">February 8, 2018 -- Poster Presentation</span> \
 *The Western Section of The Wildlife Society Annual Conference*, Redding, CA \
-Author List: Preckler-Quisquater S, Anderson S, Buchalski M, Sacks BN
+Author List: **Preckler-Quisquater S**, Anderson S, Buchalski M, Sacks BN \
+\
+[<img align="right" src="/files/CDFWScienceSymposiumOccModel2017.pdf" width="250">](/files/CDFWScienceSymposiumOccModel2017.pdf)
+**Occupancy estimation as a tool to test and refine a predictive species distribution model for the Sacramento Valley red fox *(Vulpes vulpes patwin)*** \
+<span style="color:darkgray">November 2017 -- Poster Presentation</span> \
+*The California Department of Fish and Wildlife Science Symposium*, Davis, CA \
+Author List: **Preckler-Quisquater S**, Anderson S, Miles K, Batter TJ, Sacks BN. \
+\
+**Occupancy estimation as a tool to test and refine a predictive species distribution model for the Sacramento Valley red fox* \
+<span style="color:darkgray">February 2017 -- Oral Presentation</span> \
+*The Western Section of The Wildlife Society Annual Conference*, Reno, NV \
+Author List: **Preckler-Quisquater S**, Anderson S, Miles K, Batter TJ, Sacks BN. \
+\
+[<img align="right" src="/files/TWS2016-poster.pdf" width="250">](/files/TWS2016-poster.pdf)
+**Increasing distribution of nonnative red fox haplotypes within the range of the native Sacramento Valley red fox* \
+<span style="color:darkgray">February 2016 -- Poster Presentation</span> \
+*The Western Section of The Wildlife Society Annual Conference*, Pomona, CA \
+Author List: **Preckler-Quisquater S**,  Batter TJ, Anderson S, Sacks BN.
+
 
 
 
