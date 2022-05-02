@@ -3,6 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+change check
 \
 **Contrasting genetic trajectories of endangered and expanding red fox populations in the western U.S.** \
 Published in *Heredity*, 2022 \
