@@ -1,6 +1,6 @@
 ---
-title: "Talks"
-permalink: /talks2/
+title: "Outreach"
+permalink: /outreach/
 author_profile: true
 ---
 \
