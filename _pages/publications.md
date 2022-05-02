@@ -44,4 +44,3 @@ Published in *African Journal of Ecology*, 2018 \
 Recommended citation: Agha M, Batter T, Bolas EC, Collins AC, Gomes da Rocha D, Monteza-Moreno CM, **Preckler-Quisquater S**, Sollman R. 2018. A review of wildlife camera trapping trends across Africa. *African Journal of Ecology*. 56(4):694-701. doi:10.1111/aje.12565 \
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://onlinelibrary.wiley.com/doi/epdf/10.1111/aje.12565){: .btn--light-outline} \
 \
-{% include gallery %}
