@@ -11,7 +11,7 @@ Recommended citation: Quinn CB, **Preckler-Quisquater S**, Akins JA, Cross P, Al
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://www.nature.com/articles/s41437-022-00522-4){: .btn--light-outline} 
 \
 \
-<img align="right" src="/files/Sacks2021-cover-Image.png" width="180">
+[<img align="right" src="/files/Sacks2021-cover-Image.png" width="180">](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16048)
 **Historical mitochondrial genomes reveal Pleistocene origin of the red wolf and insights for North American Canis phylogeography** \
 Published in *Molecular Ecology*, 2021 \
 Recommended citation: Sacks BN, Mitchell KJ, Quinn CB, Hennelly LM, Sinding MHS, Statham MJ, **Preckler-Quisquater S**, Fain SR, Kistler L, Vanderzwan SL, Meachen JA, Ostrander EA, Frantz LAF. 2021. Historical mitochondrial genomes reveal Pleistocene origin of the red wolf and insights for North American Canis phylogeography. *Molecular Ecology*. doi:10.1111/mec.16048 \
