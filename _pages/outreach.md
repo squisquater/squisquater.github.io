@@ -15,6 +15,8 @@ Author: **Preckler-Quisquater S** \
 \
 <i class="fa-regular fa-podcast"></i>
 \
+<img src="/images/podcast-solid.svg" width="20" height="20">
+\
 **Episode 33: Saskatchewan Trapper's Association & UC Davis Red Fox Study** \
 <span style="color:darkgray">Fall 2022 -- Podcast</span> \
 *First Focal Plane Podcast* \
