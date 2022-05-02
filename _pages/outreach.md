@@ -7,7 +7,7 @@ author_profile: true
 I am currently collaborating with fur trapping associations throughout Canada to obtain a more representative subset of red fox samples in order to better undertand their evolutionary history within North America. As part of making this effort a success, I have prioritized transparent communication by conducting local media outreach efforts.
 \
 \
-[<img align="right" src="/files/STA-article.pdf" width="200">](/files/STA-article.pdf)
+[<img align="right" src="/files/STA-article.pdf" width="300">](/files/STA-article.pdf)
 **Trappers help fill the knowledge gap in North American red fox history** \
 <span style="color:darkgray">Fall 2022 -- Pop. Sci. Article</span> \
 *Saskatchewan Trapper's Association Magazine* \
