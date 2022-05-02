@@ -4,12 +4,22 @@ permalink: /outreach/
 author_profile: true
 ---
 \
+## Understanding the history of red fox in North America
+I am currently collaborating with fur trapping associations throughout Canada to obatin a more representative subset of red fox samples in order to better undertand their evolutionary history within North America. As part of making this effort a success, I have prioritized transparent communication by conducting local media outreach efforts.
+\
 [<img align="right" src="/files/STA-article.pdf" width="150">](/files/STA-article.pdf)
 **Trappers help fill the knowledge gap in North American red fox history** \
 <span style="color:darkgray">Fall 2022 -- Pop. Sci. Article</span> \
 *Saskatchewan Trapper's Association Magazine* \
 Author: **Preckler-Quisquater S** \
 \
+<i class="fa-regular fa-podcast"></i>
+\
+**Episode 33: Saskatchewan Trapper's Association & UC Davis Red Fox Study** \
+<span style="color:darkgray">Fall 2022 -- Podcast</span> \
+*First Focal Plane Podcast* \
+Author: **Preckler-Quisquater S** \
+https://firstfocalplane.libsyn.com/episode-33-sask-trappers-association-red-fox-study
 \
 \
 \
