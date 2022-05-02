@@ -48,14 +48,14 @@ Author List: **Preckler-Quisquater S**, Anderson S, Buchalski M, Sacks BN \
 Author List: **Preckler-Quisquater S**, Anderson S, Miles K, Batter TJ, Sacks BN. \
 \
 \
-**Occupancy estimation as a tool to test and refine a predictive species distribution model for the Sacramento Valley red fox* \
+**Occupancy estimation as a tool to test and refine a predictive species distribution model for the Sacramento Valley red fox** \
 <span style="color:darkgray">February 2017 -- Oral Presentation</span> \
 *The Western Section of The Wildlife Society Annual Conference*, Reno, NV \
 Author List: **Preckler-Quisquater S**, Anderson S, Miles K, Batter TJ, Sacks BN. \
 \
 \
 [<img align="right" src="/files/TWS2016-poster.pdf" width="250">](/files/TWS2016-poster.pdf)
-**Increasing distribution of nonnative red fox haplotypes within the range of the native Sacramento Valley red fox* \
+**Increasing distribution of nonnative red fox haplotypes within the range of the native Sacramento Valley red fox** \
 <span style="color:darkgray">February 2016 -- Poster Presentation</span> \
 *The Western Section of The Wildlife Society Annual Conference*, Pomona, CA \
 Author List: **Preckler-Quisquater S**,  Batter TJ, Anderson S, Sacks BN.
