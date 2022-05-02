@@ -17,7 +17,7 @@ Author: **Preckler-Quisquater S** \
 <span style="color:darkgray">December 2020 -- Invited Speaker</span> \
 *The Yolo Basin Foundation Flyway Nights Speaker Series*, Davis, CA \
 Presenter: **Preckler-Quisquater S** \
-\
+
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Wt4ohyRGNY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
