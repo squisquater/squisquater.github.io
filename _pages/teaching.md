@@ -9,23 +9,19 @@ author_profile: true
 
 **Ecology** \
 <span style="color:darkgray">Fall 2021 -- Invited Guest Lecturer</span> \
+<span style="color:darkgray">Fall 2020 -- Invited Guest Lecturer</span> \
 *Sacramento State University* \
 \
 **Introduction to Evolution** \
 <span style="color:darkgray">Fall 2020 -- Teaching Assistant</span> \
+<span style="color:darkgray">Summer 2020 -- Teaching Assistant</span> \
+<span style="color:darkgray">Fall 2019 -- Teaching Assistant</span> \
+<span style="color:darkgray">Fall 2018 -- Teaching Assistant</span> \
 *University of California - Davis* \
-\
-**Ecology** \
-<span style="color:darkgray">Fall 2020 -- Invited Guest Lecturer</span> \
-*Sacramento State University* \
 \
 **Conservation Biology** \
 <span style="color:darkgray">Fall 2020 -- Invited Guest Lecturer</span> \
 *Sacramento State University* \
-\
-**Introduction to Evolution** \
-<span style="color:darkgray">Summer 2020 -- Teaching Assistant</span> \
-*University of California - Davis* \
 \
 **Field Methods in Wildlife, Fish, & Conservation Biology** \
 <span style="color:darkgray">Spring 2020 -- Teaching Assistant</span> \
@@ -35,46 +31,19 @@ author_profile: true
 <span style="color:darkgray">Spring 2020 -- Invited Guest Lecturer</span> \
 *Sacramento State University* \
 \
-**Introduction to Evolution** \
-<span style="color:darkgray">Fall 2019 -- Teaching Assistant</span> \
-*University of California - Davis* \
-\
 **Mammalogy** \
 <span style="color:darkgray">Fall 2019 -- Invited Guest Lecturer</span> \
-*Sacramento State University* \
-\
-**Introductory Biology: Principles of Ecology and Evolution** \
-<span style="color:darkgray">Spring 2019 -- Teaching Assistant</span> \
-*University of California - Davis* \
-\
-**Introductory Biology: Principles of Ecology and Evolution** \
-<span style="color:darkgray">Winter 2019 -- Teaching Assistant</span> \
-*University of California - Davis* \
-\
-**Introduction to Evolution** \
-<span style="color:darkgray">Fall 2018 -- Teaching Assistant</span> \
-*University of California - Davis* \
-\
-**Mammalogy** \
 <span style="color:darkgray">Fall 2018 -- Invited Guest Lecturer</span> \
-*Sacramento State University* \
-\
-**Introductory Biology: Principles of Ecology and Evolution** \
-<span style="color:darkgray">Summer 2018 -- Teaching Assistant</span> \
-*University of California - Davis* \
-\
-**Introductory Biology: Principles of Ecology and Evolution** \
-<span style="color:darkgray">Spring 2018 -- Teaching Assistant</span> \
-*University of California - Davis* \
-\
-**Mammalogy** \
 <span style="color:darkgray">Fall 2017 -- Invited Guest Lecturer</span> \
 *Sacramento State University* \
 \
 **Introductory Biology: Principles of Ecology and Evolution** \
+<span style="color:darkgray">Spring 2019 -- Teaching Assistant</span> \
+<span style="color:darkgray">Winter 2019 -- Teaching Assistant</span> \
+<span style="color:darkgray">Summer 2018 -- Teaching Assistant</span> \
+<span style="color:darkgray">Spring 2018 -- Teaching Assistant</span> \
 <span style="color:darkgray">Winter 2017 -- Teaching Assistant</span> \
 *University of California - Davis* 
-
 
 ## Mentorship
 
