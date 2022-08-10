@@ -3,7 +3,7 @@ title: "Talks"
 permalink: /talks2/
 author_profile: true
 ---
-This page highlights a selection of my research presented at professional conferences. For a complete list check out my [CV](https://squisquater.github.io/cv/).\
+This page highlights a selection of my research presented at professional conferences. For a complete list see my [CV](https://squisquater.github.io/cv/).\
 \
 \
 [<img align="right" src="/files/Preckler-Quisquater_TWS2022.pdf" width="250">](/files/Preckler-Quisquater_TWS2022.pdf)
