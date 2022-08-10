@@ -8,42 +8,42 @@ author_profile: true
 ## Teaching and Guest Lectures
 
 **Ecology** \
+*Sacramento State University* \
 <span style="color:darkgray">Fall 2021 -- Invited Guest Lecturer</span> \
 <span style="color:darkgray">Fall 2020 -- Invited Guest Lecturer</span> \
-*Sacramento State University* \
 \
 **Introduction to Evolution** \
+*University of California - Davis* \
 <span style="color:darkgray">Fall 2020 -- Teaching Assistant</span> \
 <span style="color:darkgray">Summer 2020 -- Teaching Assistant</span> \
 <span style="color:darkgray">Fall 2019 -- Teaching Assistant</span> \
 <span style="color:darkgray">Fall 2018 -- Teaching Assistant</span> \
-*University of California - Davis* \
 \
 **Conservation Biology** \
-<span style="color:darkgray">Fall 2020 -- Invited Guest Lecturer</span> \
 *Sacramento State University* \
+<span style="color:darkgray">Fall 2020 -- Invited Guest Lecturer</span> \
 \
 **Field Methods in Wildlife, Fish, & Conservation Biology** \
-<span style="color:darkgray">Spring 2020 -- Teaching Assistant</span> \
 *University of California - Davis* \
+<span style="color:darkgray">Spring 2020 -- Teaching Assistant</span> \
 \
 **Wildlife Biology** \
-<span style="color:darkgray">Spring 2020 -- Invited Guest Lecturer</span> \
 *Sacramento State University* \
+<span style="color:darkgray">Spring 2020 -- Invited Guest Lecturer</span> \
 \
 **Mammalogy** \
+*Sacramento State University* \
 <span style="color:darkgray">Fall 2019 -- Invited Guest Lecturer</span> \
 <span style="color:darkgray">Fall 2018 -- Invited Guest Lecturer</span> \
 <span style="color:darkgray">Fall 2017 -- Invited Guest Lecturer</span> \
-*Sacramento State University* \
 \
 **Introductory Biology: Principles of Ecology and Evolution** \
+*University of California - Davis* \
 <span style="color:darkgray">Spring 2019 -- Teaching Assistant</span> \
 <span style="color:darkgray">Winter 2019 -- Teaching Assistant</span> \
 <span style="color:darkgray">Summer 2018 -- Teaching Assistant</span> \
 <span style="color:darkgray">Spring 2018 -- Teaching Assistant</span> \
 <span style="color:darkgray">Winter 2017 -- Teaching Assistant</span> \
-*University of California - Davis* 
 
 ## Mentorship
 
