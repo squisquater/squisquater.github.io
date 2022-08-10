@@ -43,7 +43,7 @@ author_profile: true
 <span style="color:darkgray">Winter 2019 -- Teaching Assistant</span> \
 <span style="color:darkgray">Summer 2018 -- Teaching Assistant</span> \
 <span style="color:darkgray">Spring 2018 -- Teaching Assistant</span> \
-<span style="color:darkgray">Winter 2017 -- Teaching Assistant</span> \
+<span style="color:darkgray">Winter 2017 -- Teaching Assistant</span> 
 
 ## Mentorship
 
