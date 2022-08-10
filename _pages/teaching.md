@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Teaching and Guest Lectures ### 
+## Teaching and Guest Lectures
 
 **Ecology** \
 <span style="color:darkgray">Fall 2021 -- Invited Guest Lecturer</span> \
@@ -76,7 +76,7 @@ author_profile: true
 *University of California - Davis* 
 
 
-### Mentorship ### 
+## Mentorship
 
 **Career Discover Group Mentor** to 21 first-year, UC Davis undergraduate students. Working to guide them throughout the 2020-2021 school year as they assess their skills, interests, and values, and the role in which these play in successfully choosing a major and building a career. \
 \
@@ -89,6 +89,6 @@ author_profile: true
 **Graduate Student Mentor** to Nicole Gonzalez. Undergraduate Animal Biology Research Practicum: Contrasting Relative Abundance Indices between Designated and Non-Designated Wildlife Areas. 2016 - 2017.
 
 
-### Miscellaneous ###
+## Miscellaneous
 
 *Software Carpentry Instructor Training* - Trained in evidence-based pedagogy for teaching foundational computational and data science skills to diverse groups of researchers.
