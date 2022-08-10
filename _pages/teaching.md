@@ -4,12 +4,91 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-TEACHING EXAMPLES 
 
+### Teaching and Guest Lectures ### 
+
+**Ecology** \
+<span style="color:darkgray">Fall 2021 -- Invited Guest Lecturer</span> \
+*Sacramento State University* \
+\
+**Introduction to Evolution** \
+<span style="color:darkgray">Fall 2020 -- Teaching Assistant</span> \
+*University of California - Davis* \
+\
+**Ecology** \
+<span style="color:darkgray">Fall 2020 -- Invited Guest Lecturer</span> \
+*Sacramento State University* \
+\
+**Conservation Biology** \
+<span style="color:darkgray">Fall 2020 -- Invited Guest Lecturer</span> \
+*Sacramento State University* \
+\
+**Introduction to Evolution** \
+<span style="color:darkgray">Summer 2020 -- Teaching Assistant</span> \
+*University of California - Davis* \
+\
+**Field Methods in Wildlife, Fish, & Conservation Biology** \
+<span style="color:darkgray">Spring 2020 -- Teaching Assistant</span> \
+*University of California - Davis* \
+\
+**Wildlife Biology** \
+<span style="color:darkgray">Spring 2020 -- Invited Guest Lecturer</span> \
+*Sacramento State University* \
+\
+**Introduction to Evolution** \
+<span style="color:darkgray">Fall 2019 -- Teaching Assistant</span> \
+*University of California - Davis* \
+\
+**Mammalogy** \
+<span style="color:darkgray">Fall 2019 -- Invited Guest Lecturer</span> \
+*Sacramento State University* \
+\
+**Introductory Biology: Principles of Ecology and Evolution** \
+<span style="color:darkgray">Spring 2019 -- Teaching Assistant</span> \
+*University of California - Davis* \
+\
+**Introductory Biology: Principles of Ecology and Evolution** \
+<span style="color:darkgray">Winter 2019 -- Teaching Assistant</span> \
+*University of California - Davis* \
+\
+**Introduction to Evolution** \
+<span style="color:darkgray">Fall 2018 -- Teaching Assistant</span> \
+*University of California - Davis* \
+\
+**Mammalogy** \
+<span style="color:darkgray">Fall 2018 -- Invited Guest Lecturer</span> \
+*Sacramento State University* \
+\
+**Introductory Biology: Principles of Ecology and Evolution** \
+<span style="color:darkgray">Summer 2018 -- Teaching Assistant</span> \
+*University of California - Davis* \
+\
+**Introductory Biology: Principles of Ecology and Evolution** \
+<span style="color:darkgray">Spring 2018 -- Teaching Assistant</span> \
+*University of California - Davis* \
+\
 **Mammalogy** \
 <span style="color:darkgray">Fall 2017 -- Invited Guest Lecturer</span> \
 *Sacramento State University* \
 \
-**Field Methods in Wildlife, Fish, & Conservation Biology** \
-<span style="color:darkgray">Spring 2021 -- Teaching Assistant</span> \
-*University of California - Davis* \
+**Introductory Biology: Principles of Ecology and Evolution** \
+<span style="color:darkgray">Winter 2017 -- Teaching Assistant</span> \
+*University of California - Davis* 
+
+
+### Mentorship ### 
+
+**Career Discover Group Mentor** to 21 first-year, UC Davis undergraduate students. Working to guide them throughout the 2020-2021 school year as they assess their skills, interests, and values, and the role in which these play in successfully choosing a major and building a career. \
+\
+**Graduate Student Mentor** to Stephanie Oleksy. Undergraduate Animal Biology Research Practicum: Museum skull specimens offer insight into ecologically relevant body size differences between closely related montane and lowland red fox subspecies. 2019 - 2021. \
+\
+**Graduate Student Mentor** to Taylor Davis. Independent research project: Optimizing tissue sampling and extraction protocol for next-generation genomic sequencing. 2018 - 2019. \
+\
+**Graduate Student Mentor** to Emma Sutphin. Undergraduate Animal Biology Research Practicum: Comparison of photographic and genetic determination of abundance of Sacramento Valley Red Foxes (Vulpes vulpes patwin) at den sites. 2017 - 2018. \
+\
+**Graduate Student Mentor** to Nicole Gonzalez. Undergraduate Animal Biology Research Practicum: Contrasting Relative Abundance Indices between Designated and Non-Designated Wildlife Areas. 2016 - 2017.
+
+
+### Miscellaneous ###
+
+*Software Carpentry Instructor Training* - Trained in evidence-based pedagogy for teaching foundational computational and data science skills to diverse groups of researchers.
