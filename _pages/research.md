@@ -3,15 +3,17 @@ permalink: /research/
 title: "Research"
 ---
 
-A place to discuss ongoing research projects
+## Postdoctoral Research
+* Exploring the effects of disease outbreaks on metapopulation connectivity, genetic diversity, and inbreeding-load in the San Joaquin kit fox (*Vulpes macrotis mutica*).
 
-*  Sacramento Valley red fox    X     nonnative red fox hybridization
-*  Secondary contact of divergence gray fox lineages
-*  Demographic history of gray foxes in North America
-*  Comparative skull morphology of red foxes along elevational gradients
-*  Sampling of red fox across Canada -> working with Fur Trappers
+## Dissertation Research
+*  Maintenance of a narrow hybrid zone between native and introduced red foxes (*Vulpes vulpes*) despite conspecificity and high dispersal capabilities
+*  Population genomics reveals distinct demographic histories among extant gray fox (*Urocyon*) lineages in North America
+*  Whole genome sequencing reveals recent and ongoing admixture between highly divergent gray fox (*Urocyon*) lineages
 
-And past research projects?
+## Other Ongoing Research Projects
+*  Demographic history of red foxes in North America
+*  Comparative morphology of red foxes along elevational gradients
 
-*  Occupancy Modeling of the Sacramento Valley red fox 
-*  etc.
+## Past Research Projects
+*  Occupancy, Habitat, and Abundance of the Sacramento Valley Red Fox 
