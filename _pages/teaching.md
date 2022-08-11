@@ -47,7 +47,9 @@ author_profile: true
 
 ## Mentorship
 
-**Career Discover Group Mentor** to 21 first-year, UC Davis undergraduate students. Working to guide them throughout the 2020-2021 school year as they assess their skills, interests, and values, and the role in which these play in successfully choosing a major and building a career. \
+**NSF REU Mentor** to Katelyn Sanchez. Ecological and Evolutionary Response to Rapid Environmental Change (EERREC) Research Experience for Undergraduates (REU). National Science Foundation. Hosted at UC Davis. Independent research project: Genetic Diversity of the San Joaquin Kit Fox. Summer 2022. \
+\
+**Career Discover Group Mentor** to 21 first-year, UC Davis undergraduate students. Working to guide them throughout the school year as they assess their skills, interests, and values, and the role in which these play in successfully choosing a major and building a career. 2020 - 2021. \
 \
 **Graduate Student Mentor** to Stephanie Oleksy. Undergraduate Animal Biology Research Practicum: Museum skull specimens offer insight into ecologically relevant body size differences between closely related montane and lowland red fox subspecies. 2019 - 2021. \
 \
@@ -61,3 +63,4 @@ author_profile: true
 ## Miscellaneous
 
 *Software Carpentry Instructor Training* - Trained in evidence-based pedagogy for teaching foundational computational and data science skills to diverse groups of researchers.
+
