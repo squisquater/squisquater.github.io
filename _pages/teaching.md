@@ -8,7 +8,7 @@ author_profile: true
 ## Teaching and Guest Lectures
 
 **Ecology** \
-*Sacramento State University* \
+*American River College* \
 <span style="color:darkgray">Fall 2021 -- Invited Guest Lecturer</span> \
 <span style="color:darkgray">Fall 2020 -- Invited Guest Lecturer</span> \
 \
@@ -20,7 +20,7 @@ author_profile: true
 <span style="color:darkgray">Fall 2018 -- Teaching Assistant</span> \
 \
 **Conservation Biology** \
-*Sacramento State University* \
+*American River College* \
 <span style="color:darkgray">Fall 2020 -- Invited Guest Lecturer</span> \
 \
 **Field Methods in Wildlife, Fish, & Conservation Biology** \
@@ -28,7 +28,7 @@ author_profile: true
 <span style="color:darkgray">Spring 2020 -- Teaching Assistant</span> \
 \
 **Wildlife Biology** \
-*Sacramento State University* \
+*American River College* \
 <span style="color:darkgray">Spring 2020 -- Invited Guest Lecturer</span> \
 \
 **Mammalogy** \
