@@ -11,7 +11,7 @@ This page highlights a selection of my research presented at professional confer
 <span style="color:darkgray">January 8, 2022 -- Poster Presentation</span> \
 *International Conference of Plant and Animal Genomics*, Virtual Meeting \
 Author List: **Preckler-Quisquater S**, Kierepka E, Reding D, Piaggio A, Riley S, Sacks BN \
-<span style="color:cadetblue">Awarded Best Poster Presentation at the UC Davis Graduate Student Symposium in Ecology - 2022</span> \
+<span style="color:cadetblue">Awarded Best Poster Presentation at the UC Davis Graduate Student Symposium in Ecology - February 2022</span> \
 \
 \
 **Do Reproductive Barrier Genes Contribute to the Maintenance of Distinct Red Fox (Vulpes vulpes) Populations across a Zone of Secondary Contact?** \
