@@ -63,4 +63,5 @@ author_profile: true
 ## Miscellaneous
 
 *Software Carpentry Instructor Training* - Trained in evidence-based pedagogy for teaching foundational computational and data science skills to diverse groups of researchers.
+*Teaching Methods in Science and Society* - Received training in mentorship, teaching methods, and course design.
 
