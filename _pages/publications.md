@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 \
+**Genomic analyses of gray fox lineages suggest ancient divergence and secondary contact in the southern Great Plains.** \
+Accepted in *Journal of Heredity*, 2022 \
+Recommended citation: Kierepka E, **Preckler-Quisquater S**, Reding D, Piaggio A, Riley S, Sacks BN. 2022. Genomic analyses of gray fox lineages suggest ancient divergence and secondary contact in the southern Great Plains. *Journal of Heredity*. doi: \
+\
+\
 **Contrasting genetic trajectories of endangered and expanding red fox populations in the western U.S.** \
 Published in *Heredity*, 2022 \
 Recommended citation: Quinn CB, **Preckler-Quisquater S**, Akins JA, Cross P, Alden PB, Vanderzwan SL, Stephenson JA, Figura P, Green GA, Hiller T, Sacks BN. 2022. Contrasting genetic trajectories of endangered and expanding red fox populations in the western U.S. *Heredity*. doi:10.1038/s41437-022-00522-4 \
