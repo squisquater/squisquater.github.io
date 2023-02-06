@@ -6,6 +6,13 @@ author_profile: true
 This page highlights a selection of my research presented at professional conferences. For a complete list see my [CV](https://squisquater.github.io/cv/).\
 \
 \
+[<img align="right" src="/files/Preckler-Quisquater_TWS2023_PosterPresentation_copy20230806_forwebtest.pdf" width="250">](Preckler-Quisquater_TWS2023_PosterPresentation_copy20230806_forwebtest.pdf)
+**Preliminary comparison of genetic diversity in the endangered San Joaquin Kit Fox (Vulpes macrotis mutica) before and after a mange outbreak** \
+<span style="color:darkgray">February 9, 2023 -- Poster Presentation</span> \
+*The Western Section of The Wildlife Society Annual Conference*, Riverside, CA \
+Author List: **Preckler-Quisquater S**, Sanchez K, Cypher B, Rudd J, Clifford D, Vanderzwan S, Sacks BN \
+\
+\
 [<img align="right" src="/files/Preckler-Quisquater_TWS2022.pdf" width="250">](/files/Preckler-Quisquater_TWS2022.pdf)
 **Genomic sequencing across a zone of secondary contact uncovers complex demographic history and admixture between cryptic gray fox lineages** \
 <span style="color:darkgray">January 8, 2022 -- Poster Presentation</span> \
