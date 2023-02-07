@@ -8,7 +8,7 @@ This page highlights a selection of my research presented at professional confer
 \
 [<img align="right" src="/files/Preckler-Quisquater_TWS2023_PosterPresentation_Final.pdf" width="250">](/files/Preckler-Quisquater_TWS2023_PosterPresentation_Final.pdf)
 **Preliminary comparison of genetic diversity in the endangered San Joaquin Kit Fox (Vulpes macrotis mutica) before and after a mange outbreak** \
-<span style="color:darkgray">February 9, 2023 -- Poster Presentation</span> \
+<span style="color:darkgray">February 8, 2023 -- Poster Presentation</span> \
 *The Western Section of The Wildlife Society Annual Conference*, Riverside, CA \
 Author List: **Preckler-Quisquater S**, Sanchez K, Cypher B, Rudd J, Clifford D, Vanderzwan S, Sacks BN \
 \
