@@ -3,6 +3,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages?** \
+In revision *Molecular Ecology*, 2023 \
+**Preckler-Quisquater S**, Kierepka E, Reding D, Piaggio A, Sacks BN. In Review. Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages? *Molecular Ecology*. \
 \
 **Genomic analyses of gray fox lineages suggest ancient divergence and secondary contact in the southern Great Plains.** \
 Published in *Journal of Heredity*, 2023 \
