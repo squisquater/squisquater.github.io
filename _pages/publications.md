@@ -16,7 +16,7 @@ Rando H, Alexander E, **Preckler-Quisquater S**, Quinn C, Stutchman J, Johnson J
 \
 **Genomic analyses of gray fox lineages suggest ancient divergence and secondary contact in the southern Great Plains.** \
 Published in *Journal of Heredity*, 2023 \
-Recommended citation: Kierepka E, **Preckler-Quisquater S**, Reding D, Piaggio A, Riley S, Sacks BN. 2022. Genomic analyses of gray fox lineages suggest ancient divergence and secondary contact in the southern Great Plains. *Journal of Heredity*. doi:10.1093/jhered/esac060 \
+Recommended citation: Kierepka E, **Preckler-Quisquater S**, Reding D, Piaggio A, Riley S, Sacks BN. 2023. Genomic analyses of gray fox lineages suggest ancient divergence and secondary contact in the southern Great Plains. *Journal of Heredity*. doi:10.1093/jhered/esac060 \
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">]([https://www.nature.com/articles/s41437-022-00522-4](https://academic.oup.com/jhered/article-abstract/114/2/110/6795124)){: .btn--light-outline} \
 \
 \
@@ -35,7 +35,7 @@ Recommended citation: Sacks BN, Mitchell KJ, Quinn CB, Hennelly LM, Sinding MHS,
 \
 **Occupancy, habitat, and abundance of the Sacramento Valley red fox** \
 Published in *The Journal of Wildlife Management*, 2019 \
-Recommended citation: Black KM, **Preckler-Quisquater S**, Batter TJ, Anderson S, Sacks, BN. 2018. Occupancy Modeling to Characterize Habitat Use and Population Size of the Sacramento Valley Red Fox. *Journal of Wildlife Management* 83:158-156. doi:10.1002/jwmg.21556 \
+Recommended citation: Black KM, **Preckler-Quisquater S**, Batter TJ, Anderson S, Sacks, BN. 2019. Occupancy Modeling to Characterize Habitat Use and Population Size of the Sacramento Valley Red Fox. *Journal of Wildlife Management* 83:158-156. doi:10.1002/jwmg.21556 \
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/jwmg.21556){: .btn--light-outline} [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](https://www.jstor.org/stable/pdf/26609730.pdf?refreqid=excelsior%3Aba9478dbcdeeaf9620273efbddb061fd&ab_segments=&origin=){: .btn--light-outline} \
 \
 \
