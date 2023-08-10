@@ -4,8 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 **Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages?** \
-In revision in *Molecular Ecology*, 2023 \
-**Preckler-Quisquater S**, Kierepka E, Reding D, Piaggio A, Sacks BN. In Review. Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages? *Molecular Ecology*. \
+Accepted in *Molecular Ecology*, 2023 \
+**Preckler-Quisquater S**, Kierepka E, Reding D, Piaggio A, Sacks BN. 2023. Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages? *Molecular Ecology*. \
+\
+\
+**Missing History of a Modern Domesticate: Historical Demographics and Genetic Diversity in Farm-bred Red Fox Populations** \
+In Review in *Journal of Heredity*, 2023 \
+Rando H, Alexander E, **Preckler-Quisquater S**, Quinn C, Stutchman J, Johnson J, Bastounes E, Horecka B, Black K, Robson M, Shepeleva D, Herbeck Y, Kharlamova A, Trut L, Pauli J, Kukekova A, Sacks B. Missing History of a Modern Domesticate: Historical Demographics and Genetic Diversity in Farm-bred Red Fox Populations. In Review. *Journal of Heredity* \
+\
 \
 **Genomic analyses of gray fox lineages suggest ancient divergence and secondary contact in the southern Great Plains.** \
 Published in *Journal of Heredity*, 2023 \
