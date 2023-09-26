@@ -3,10 +3,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-[<img align="right" src="/files/Molecular Ecology - GrayFoxCover.pdf" width="180">]()
+[<img align="right" src="/files/MolecularEcology-GrayFoxCover.pdf" width="180">](https://onlinelibrary.wiley.com/doi/10.1111/mec.17105)
 **Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages?** \
-Accepted in *Molecular Ecology*, 2023 \
-**Preckler-Quisquater S**, Kierepka E, Reding D, Piaggio A, Sacks BN. 2023. Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages? *Molecular Ecology*. \
+Published in *Molecular Ecology*, 2023 \
+**Preckler-Quisquater S**, Kierepka E, Reding D, Piaggio A, Sacks BN. 2023. Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages? *Molecular Ecology*. doi:10.1111/mec.17105 \
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://onlinelibrary.wiley.com/doi/10.1111/mec.17105){: .btn--light-outline} \
 \
 \
 **Missing History of a Modern Domesticate: Historical Demographics and Genetic Diversity in Farm-bred Red Fox Populations** \
