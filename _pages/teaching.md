@@ -9,6 +9,7 @@ author_profile: true
 
 **Ecology** \
 *American River College* \
+<span style="color:darkgray">Fall 2023 -- Invited Guest Lecturer</span> \
 <span style="color:darkgray">Fall 2021 -- Invited Guest Lecturer</span> \
 <span style="color:darkgray">Fall 2020 -- Invited Guest Lecturer</span> \
 \
