@@ -21,7 +21,7 @@ Rando H, Alexander E, **Preckler-Quisquater S**, Quinn C, Stutchman J, Johnson J
 \
 **Development of a 96 SNP panel for fecal genotyping and individual identification of bobcats (Lynx rufus) in California** \
 In Review in *Conservation Genetics Resources*, 2024 \
-QAhrens K, Sacks BN, **Preckler-Quisquater S**, Buchalski M. Development of a 96 SNP panel for fecal genotyping and individual identification of bobcats (Lynx rufus) in California. In Review. *MConservation Genetics Resources*. \
+Ahrens K, Sacks BN, **Preckler-Quisquater S**, Buchalski M. Development of a 96 SNP panel for fecal genotyping and individual identification of bobcats (Lynx rufus) in California. In Review. *MConservation Genetics Resources*. \
 \
 \
 [<img align="right" src="/files/MolecularEcology-GrayFoxCover.png" width="180">](https://onlinelibrary.wiley.com/doi/10.1111/mec.17105)
