@@ -3,16 +3,32 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-[<img align="right" src="/files/MolecularEcology-GrayFoxCover.png" width="180">](https://onlinelibrary.wiley.com/doi/10.1111/mec.17105)
-**Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages?** \
-Published in *Molecular Ecology*, 2023 \
-**Preckler-Quisquater S**, Kierepka E, Reding D, Piaggio A, Sacks BN. 2023. Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages? *Molecular Ecology*. doi:10.1111/mec.17105 \
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://onlinelibrary.wiley.com/doi/10.1111/mec.17105){: .btn--light-outline} \
+\
+**Maintenance of a narrow hybrid zone between native and introduced red foxes (Vulpes vulpes) despite conspecificity and high dispersal capabilities** \
+In Review in *Molecular Ecology*, 2024 \
+**Preckler-Quisquater S**, Quinn CB, S. Sacks, BN. Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages? In Review. *Molecular Ecology*. \
+\
+\
+**Whole genomes inform genetic augmentation strategy of montane red foxes in North America** \
+In Review in *Molecular Biology and Evolution*, 2024 \
+Quinn CB, **Preckler-Quisquater S**, Buchalski M, Sacks BN. Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages? In Review. *Molecular Biology and Evolution*. \
 \
 \
 **Missing History of a Modern Domesticate: Historical Demographics and Genetic Diversity in Farm-bred Red Fox Populations** \
-In Review in *Journal of Heredity*, 2023 \
+In Review in *Journal of Heredity*, 2024 \
 Rando H, Alexander E, **Preckler-Quisquater S**, Quinn C, Stutchman J, Johnson J, Bastounes E, Horecka B, Black K, Robson M, Shepeleva D, Herbeck Y, Kharlamova A, Trut L, Pauli J, Kukekova A, Sacks B. Missing History of a Modern Domesticate: Historical Demographics and Genetic Diversity in Farm-bred Red Fox Populations. In Review. *Journal of Heredity* \
+\
+\
+**Development of a 96 SNP panel for fecal genotyping and individual identification of bobcats (Lynx rufus) in California** \
+In Review in *Conservation Genetics Resources*, 2024 \
+QAhrens K, Sacks BN, **Preckler-Quisquater S**, Buchalski M. Development of a 96 SNP panel for fecal genotyping and individual identification of bobcats (Lynx rufus) in California. In Review. *MConservation Genetics Resources*. \
+\
+\
+[<img align="right" src="/files/MolecularEcology-GrayFoxCover.png" width="180">](https://onlinelibrary.wiley.com/doi/10.1111/mec.17105)
+**Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages?** \
+Published in *Molecular Ecology*, 2023 \
+Recommended citation: **Preckler-Quisquater S**, Kierepka E, Reding D, Piaggio A, Sacks BN. 2023. Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages? *Molecular Ecology*. doi:10.1111/mec.17105 \
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://onlinelibrary.wiley.com/doi/10.1111/mec.17105){: .btn--light-outline} \
 \
 \
 **Genomic analyses of gray fox lineages suggest ancient divergence and secondary contact in the southern Great Plains.** \
