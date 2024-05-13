@@ -5,17 +5,17 @@ author_profile: true
 ---
 \
 **Maintenance of a narrow hybrid zone between native and introduced red foxes (Vulpes vulpes) despite conspecificity and high dispersal capabilities** \
-In Review in *Molecular Ecology*, 2024 \
-**Preckler-Quisquater S**, Quinn CB, S. Sacks, BN. Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages? In Review. *Molecular Ecology*. \
+Accepted in *Molecular Ecology*, 2024 \
+**Preckler-Quisquater S**, Quinn CB, S. Sacks, BN. Maintenance of a narrow hybrid zone between native and introduced red foxes (Vulpes vulpes) despite conspecificity and high dispersal capabilities. In Review. *Molecular Ecology*. \
 \
 \
 **Whole genomes inform genetic augmentation strategy of montane red foxes in North America** \
 In Review in *Molecular Biology and Evolution*, 2024 \
-Quinn CB, **Preckler-Quisquater S**, Buchalski M, Sacks BN. Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages? In Review. *Molecular Biology and Evolution*. \
+Quinn CB, **Preckler-Quisquater S**, Buchalski M, Sacks BN. Whole genomes inform genetic augmentation strategy of montane red foxes in North America. In Review. *Molecular Biology and Evolution*. \
 \
 \
 **Missing History of a Modern Domesticate: Historical Demographics and Genetic Diversity in Farm-bred Red Fox Populations** \
-In Review in *Journal of Heredity*, 2024 \
+Accepted in *Journal of Heredity*, 2024 \
 Rando H, Alexander E, **Preckler-Quisquater S**, Quinn C, Stutchman J, Johnson J, Bastounes E, Horecka B, Black K, Robson M, Shepeleva D, Herbeck Y, Kharlamova A, Trut L, Pauli J, Kukekova A, Sacks B. Missing History of a Modern Domesticate: Historical Demographics and Genetic Diversity in Farm-bred Red Fox Populations. In Review. *Journal of Heredity* \
 \
 \
