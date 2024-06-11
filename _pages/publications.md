@@ -3,7 +3,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### In Review
 **Whole genomes inform genetic augmentation strategy of montane red foxes in North America** \
 <span style="color:cadetblue">In Review in *Molecular Biology and Evolution*, 2024</span> \
 Recommended citation: Quinn CB, **Preckler-Quisquater S**, Buchalski M, Sacks BN. Whole genomes inform genetic augmentation strategy of montane red foxes in North America. In Review. *Molecular Biology and Evolution*. \
@@ -12,8 +11,8 @@ Recommended citation: Quinn CB, **Preckler-Quisquater S**, Buchalski M, Sacks BN
 **Development of a 96 SNP panel for fecal genotyping and individual identification of bobcats (Lynx rufus) in California** \
 <span style="color:cadetblue">In Review in *Conservation Genetics Resources*, 2024</span> \
 Recommended citation: Ahrens K, Sacks BN, **Preckler-Quisquater S**, Buchalski M. Development of a 96 SNP panel for fecal genotyping and individual identification of bobcats (Lynx rufus) in California. In Review. *Conservation Genetics Resources*. \
-
-### Published
+\
+\
 **Maintenance of a narrow hybrid zone between native and introduced red foxes (Vulpes vulpes) despite conspecificity and high dispersal capabilities** \
 <span style="color:cadetblue">Early View in *Molecular Ecology*, 2024</span> \
 Recommended citation: **Preckler-Quisquater S**, Quinn CB, S. Sacks, BN. Maintenance of a narrow hybrid zone between native and introduced red foxes (Vulpes vulpes) despite conspecificity and high dispersal capabilities. 2024. *Molecular Ecology*. \
