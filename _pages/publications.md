@@ -5,8 +5,9 @@ author_profile: true
 ---
 \
 **Maintenance of a narrow hybrid zone between native and introduced red foxes (Vulpes vulpes) despite conspecificity and high dispersal capabilities** \
-<span style="color:cadetblue">Accepted in *Molecular Ecology*, 2024</span> \
-Recommended citation: **Preckler-Quisquater S**, Quinn CB, S. Sacks, BN. Maintenance of a narrow hybrid zone between native and introduced red foxes (Vulpes vulpes) despite conspecificity and high dispersal capabilities. In Review. *Molecular Ecology*. \
+<span style="color:cadetblue">Early View in *Molecular Ecology*, 2024</span> \
+Recommended citation: **Preckler-Quisquater S**, Quinn CB, S. Sacks, BN. Maintenance of a narrow hybrid zone between native and introduced red foxes (Vulpes vulpes) despite conspecificity and high dispersal capabilities. 2024. *Molecular Ecology*. \
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.17418){: .btn--light-outline} \
 \
 \
 **Whole genomes inform genetic augmentation strategy of montane red foxes in North America** \
