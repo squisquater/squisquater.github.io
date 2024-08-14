@@ -35,7 +35,7 @@ Recommended citation: **Preckler-Quisquater S**, Kierepka E, Reding D, Piaggio A
 **Genomic analyses of gray fox lineages suggest ancient divergence and secondary contact in the southern Great Plains.** \
 <span style="color:cadetblue">Published in *Journal of Heredity*, 2023</span> \
 Recommended citation: Kierepka E, **Preckler-Quisquater S**, Reding D, Piaggio A, Riley S, Sacks BN. 2023. Genomic analyses of gray fox lineages suggest ancient divergence and secondary contact in the southern Great Plains. *Journal of Heredity*. doi:10.1093/jhered/esac060 \
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">]([https://www.nature.com/articles/s41437-022-00522-4](https://academic.oup.com/jhered/article-abstract/114/2/110/6795124)){: .btn--light-outline} \
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://academic.oup.com/jhered/article-abstract/114/2/110/6795124){: .btn--light-outline} \
 \
 \
 **Contrasting genetic trajectories of endangered and expanding red fox populations in the western U.S.** \
