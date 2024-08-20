@@ -9,19 +9,19 @@ Recommended citation: Quinn CB, **Preckler-Quisquater S**, Buchalski M, Sacks BN
 \
 \
 **Development of a 96 SNP panel for fecal genotyping and individual identification of bobcats (Lynx rufus) in California** \
-<span style="color:cadetblue">In Review in *Conservation Genetics Resources*, 2024</span> \
-Recommended citation: Ahrens K, Sacks BN, **Preckler-Quisquater S**, Buchalski M. Development of a 96 SNP panel for fecal genotyping and individual identification of bobcats (Lynx rufus) in California. In Review. *Conservation Genetics Resources*. \
+<span style="color:cadetblue">Accepted in *Conservation Genetics Resources*, 2024</span> \
+Recommended citation: Ahrens K, Sacks BN, **Preckler-Quisquater S**, Buchalski M. 2024. Development of a 96 SNP panel for fecal genotyping and individual identification of bobcats (Lynx rufus) in California. Accepted Manuscript. *Conservation Genetics Resources*. \
 \
 \
 **Maintenance of a narrow hybrid zone between native and introduced red foxes (Vulpes vulpes) despite conspecificity and high dispersal capabilities** \
-<span style="color:cadetblue">Early View in *Molecular Ecology*, 2024</span> \
-Recommended citation: **Preckler-Quisquater S**, Quinn CB, S. Sacks, BN. Maintenance of a narrow hybrid zone between native and introduced red foxes (Vulpes vulpes) despite conspecificity and high dispersal capabilities. 2024. *Molecular Ecology*. \
+<span style="color:cadetblue">Published in *Molecular Ecology*, 2024</span> \
+Recommended citation: **Preckler-Quisquater S**, Quinn CB, S. Sacks, BN. 2024. Maintenance of a narrow hybrid zone between native and introduced red foxes (Vulpes vulpes) despite conspecificity and high dispersal capabilities. *Molecular Ecology*. \
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.17418){: .btn--light-outline} \
 \
 \
 **Missing History of a Modern Domesticate: Historical Demographics and Genetic Diversity in Farm-bred Red Fox Populations** \
-<span style="color:cadetblue">Early View in *Journal of Heredity*, 2024</span> \
-Recommended citation: Rando H, Alexander E, **Preckler-Quisquater S**, Quinn C, Stutchman J, Johnson J, Bastounes E, Horecka B, Black K, Robson M, Shepeleva D, Herbeck Y, Kharlamova A, Trut L, Pauli J, Kukekova A, Sacks B. Missing History of a Modern Domesticate: Historical Demographics and Genetic Diversity in Farm-bred Red Fox Populations. In Review. *Journal of Heredity* \
+<span style="color:cadetblue">Published in in *Journal of Heredity*, 2024</span> \
+Recommended citation: Rando H, Alexander E, **Preckler-Quisquater S**, Quinn C, Stutchman J, Johnson J, Bastounes E, Horecka B, Black K, Robson M, Shepeleva D, Herbeck Y, Kharlamova A, Trut L, Pauli J, Kukekova A, Sacks B. 2024. Missing History of a Modern Domesticate: Historical Demographics and Genetic Diversity in Farm-bred Red Fox Populations. *Journal of Heredity* 115(4):411–423 \
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://academic.oup.com/jhered/advance-article/doi/10.1093/jhered/esae022/7646377){: .btn--light-outline} \
 \
 \
