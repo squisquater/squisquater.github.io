@@ -4,8 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 **Whole genomes inform genetic augmentation strategy of montane red foxes in North America** \
-<span style="color:cadetblue">In Review in *Molecular Biology and Evolution*, 2024</span> \
-Recommended citation: Quinn CB, **Preckler-Quisquater S**, Buchalski M, Sacks BN. Whole genomes inform genetic augmentation strategy of montane red foxes in North America. In Review. *Molecular Biology and Evolution*. \
+<span style="color:cadetblue">Accepted in *Molecular Biology and Evolution*, 2024</span> \
+Recommended citation: Quinn CB, **Preckler-Quisquater S**, Buchalski M, Sacks BN. Whole genomes inform genetic augmentation strategy of montane red foxes in North America. Accepted Manuscript. *Molecular Biology and Evolution*. \
 \
 \
 **Development of a 96 SNP panel for fecal genotyping and individual identification of bobcats (Lynx rufus) in California** \
