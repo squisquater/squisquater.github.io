@@ -6,13 +6,13 @@ author_profile: true
 **Whole genomes inform genetic augmentation strategy of montane red foxes in North America** \
 <span style="color:cadetblue">Accepted in *Molecular Biology and Evolution*, 2024</span> \
 Recommended citation: Quinn CB, **Preckler-Quisquater S**, Buchalski M, Sacks BN. Whole genomes inform genetic augmentation strategy of montane red foxes in North America. Accepted Manuscript. *Molecular Biology and Evolution*. \
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://onlinelibrary.wiley.com/doi/10.1111/mec.17105){: .btn--light-outline} \
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://academic.oup.com/mbe/article/41/9/msae193/7759487){: .btn--light-outline} \
 \
 \
 **Development of a 96 SNP panel for fecal genotyping and individual identification of bobcats (Lynx rufus) in California** \
 <span style="color:cadetblue">Accepted in *Conservation Genetics Resources*, 2024</span> \
 Recommended citation: Ahrens K, Sacks BN, **Preckler-Quisquater S**, Buchalski M. 2024. Development of a 96 SNP panel for fecal genotyping and individual identification of bobcats (Lynx rufus) in California. Accepted Manuscript. *Conservation Genetics Resources*. \
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://onlinelibrary.wiley.com/doi/10.1111/mec.17105){: .btn--light-outline} \
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="20">](https://link.springer.com/article/10.1007/s12686-024-01368-0){: .btn--light-outline} \
 \
 \
 **Maintenance of a narrow hybrid zone between native and introduced red foxes (Vulpes vulpes) despite conspecificity and high dispersal capabilities** \
