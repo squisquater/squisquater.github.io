@@ -15,12 +15,6 @@ My doctoral research examined two contrasting systems: native and introduced red
 
 [<img align="right" src="/files/GeneticClines_forwebsite.png" width="620">](/files/GeneticClines_forwebsite.png)These findings raise broader questions about how divergence time, historical demography, and selection interact to shape the evolution of reproductive barriers. My ongoing research expands genomic and morphological sampling across the gray fox contact zone and investigates the evolutionary history of kit foxes, swift foxes, and arctic foxes, including the roles of historical introgression and adaptation to arid environments.
 
-**Selected publications**
-
-* Preckler-Quisquater et al. (2024). Maintenance of a narrow hybrid zone between native and introduced red foxes despite conspecificity and high dispersal capabilities. Molecular Ecology.
-
-* Preckler-Quisquater et al. (2023). Can demographic histories explain long-term isolation and recent pulses of asymmetric gene flow between highly divergent gray fox lineages? Molecular Ecology.
-
 ## Ecological differentiation and evolution across contrasting environments
 *How do ecological conditions influence phenotypic and genomic differentiation, and when might these changes reinforce population divergence?*
 
@@ -29,14 +23,9 @@ Environmental heterogeneity creates opportunities for populations to diverge in 
 ***Urbanization and evolutionary differentiation.*** My research on endangered San Joaquin kit foxes (Vulpes macrotis mutica) investigates how urbanization and landscape fragmentation influence population connectivity. Despite their geographic proximity, urban and nonurban populations exhibit pronounced genetic differentiation, consistent with behavioral mechanisms such as natal-habitat-biased dispersal that may restrict gene flow. Complementary dietary research using DNA metabarcoding has revealed differences in resource use between urban and nonurban foxes, including greater consumption of anthropogenic foods and broader dietary niches in urban environments.
 
 Together, these findings raise the possibility that ecological specialization and behavioral differences reinforce genetic differentiation between urban and nonurban populations. I am interested in understanding whether these processes contribute to the emergence and persistence of distinct urban ecotypes.
+[<img align="left" src="/files/skull.morphology_forwebsite.png" width="200">](/files/skull.morphology_forwebsite.png) 
 
-[<img align="left" src="/files/skull.morphology_forwebsite.png" width="200">](/files/skull.morphology_forwebsite.png) ***Elevational adaptation and morphological differentiation.*** I also investigate how environmental gradients shape phenotypic variation in red foxes. Using natural-history museum specimens and geometric morphometrics, research conducted with an undergraduate mentee revealed differences in skull size and shape between high- and low-elevation red fox populations. I am expanding this work to integrate genomic and morphological data across elevational gradients, with the goal of investigating the evolutionary processes underlying adaptation to high-elevation environments.
-
-**Selected publications**
-
-* Preckler-Quisquater et al. *Drivers and patterns of connectivity among endangered kit fox populations across a human-altered landscape*. Proceedings of the Royal Society B (in review).
-
-* Finnerty et al. *Urban diets of San Joaquin kit fox revealed by DNA metabarcoding: Diverse prey and anthropogenic food use suggest a shift in foraging strategy*. (In preparation; undergraduate-led research).
+***Elevational adaptation and morphological differentiation.*** I also investigate how environmental gradients shape phenotypic variation in red foxes. Using natural-history museum specimens and geometric morphometrics, research conducted with an undergraduate mentee revealed differences in skull size and shape between high- and low-elevation red fox populations. I am expanding this work to integrate genomic and morphological data across elevational gradients, with the goal of investigating the evolutionary processes underlying adaptation to high-elevation environments.
 
 ## Historical demography, genetic load, and population persistence
 *How does evolutionary history influence the genetic vulnerability of populations, and can this information improve predictions of their future persistence?*
@@ -49,12 +38,6 @@ Using whole-genome sequencing, I investigate how contrasting demographic histori
 I am building on these empirical findings through forward-time evolutionary simulations that integrate historical demography, genetic load, migration, and contemporary environmental pressures. Current projects include evaluating how harvest and immigration influence the long-term persistence of wolves on Prince of Wales Island in southeast Alaska and developing genomically informed simulations to assess connectivity and recovery strategies for endangered San Joaquin kit foxes.
 
 Ultimately, I aim to develop a comparative framework for understanding how historical and contemporary evolutionary processes interact to influence population vulnerability, adaptive potential, and persistence under environmental change.
-
-**Selected publications**
-
-Preckler-Quisquater et al. Historical bottlenecks and contemporary fragmentation jointly shape inbreeding depression risk across the endangered San Joaquin kit fox metapopulation. (*In preparation*).
-
-Preckler-Quisquater & Sacks (2026). San Joaquin kit fox genomics: Metapopulation connectivity and genetic health. Technical report to the Bureau of Land Management.
 
 ## Collaborative Research Projects
 
