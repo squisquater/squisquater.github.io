@@ -8,16 +8,13 @@ author_profile: true
 **Preckler-Quisquater S**, Cypher BM, Rudd JL, Clifford DL, Vanderzwan SL, Sacks BN. \
 <span style="color:cadetblue">In Review in *Proceedings of the Royal Society B* </span> \
 \
-\
 **Busy Freeway Causes Severe Inbreeding in Mountain Lions Ahead of a Major Wildlife Connectivity Project** \
 Rodriguez CR, Sikich JA, **Preckler-Quisquater S**, Vanderzwan S, Supple MA, Riley SPD, Sacks BN. \
 <span style="color:cadetblue">In Review in *Current Biology* </span> \
 \
-\
 **Genomic evidence of colonization, divergence, and inbreeding in island spotted skunks** \
 Owen-Orcutt J, Quinn CB, **Preckler-Quisquater S**, Bolas E, Brenner L, Schamel J, Parrino B, Van Vuren D, Sacks B.N. \
 <span style="color:cadetblue">In Review in *Ecology and Evolution* </span> 
-
 ## Published
 **Whole genomes inform genetic augmentation strategy of montane red foxes in North America** \
 <span style="color:cadetblue">Accepted in *Molecular Biology and Evolution*, 2024</span> \
