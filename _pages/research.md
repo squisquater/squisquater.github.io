@@ -43,7 +43,7 @@ Together, these findings raise the possibility that ecological specialization an
 *How does evolutionary history influence the genetic vulnerability of populations, and can this information improve predictions of their future persistence?*
 
 Population declines, habitat fragmentation, and environmental change can reduce genetic diversity, increase inbreeding, and compromise population persistence. However, the genetic consequences of these processes depend partly on historical population sizes, isolation, and the long-term interaction between selection and genetic drift.
-[<img align="right" src="/files/Kyriazis.figure-hetoutsideroh>2Mb_forwebsite.png" width="250">](/files/Kyriazis.figure-hetoutsideroh>2Mb_forwebsite.png)
+[<img align="right" src="/files/Kyriazis.figure-hetoutsideroh>2Mb_forwebsite.png" width="350">](/files/Kyriazis.figure-hetoutsideroh>2Mb_forwebsite.png)
 
 Using whole-genome sequencing, I investigate how contrasting demographic histories have shaped patterns of genetic diversity, inbreeding, and deleterious variation in kit foxes and gray wolves (*Canis lupus*). This work examines why populations with histories of prolonged isolation may differ in their vulnerability to inbreeding depression from populations that have experienced more recent demographic declines.
 
